@@ -1,9 +1,13 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
+class Game;
+class Player;
 int main()
 {
+    std::string name1;
     std::string name2;
     std::string str;
     int score1;
