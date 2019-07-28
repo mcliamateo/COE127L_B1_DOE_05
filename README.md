@@ -1,1 +1,4 @@
-# COE127L_B1_DOE_05
+# COE127L - B1
+Design of Experiment
+
+T9 Predictive Text
